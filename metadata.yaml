@@ -1,0 +1,32 @@
+_repo: The-Jefferson-Lemen-Compact--13-The-Relations-of-Thomas-Jefferson-and-James-Lemen-in-the-Excl__21251
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: MacNaul, Willard C. (Willard Carey)
+    alias: MacNaul, Willard Carey
+    birthdate: 1864
+    gutenberg_agent_id: '9802'
+    url: http://www.gutenberg.org/2009/agents/9802
+description: ''
+gutenberg_issued: '2007-04-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21251'
+  lccn: '15027579'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jefferson, Thomas, 1743-1826'
+- !lcc 'E300'
+- !lcsh 'Slavery -- Northwest, Old'
+- !lcsh 'Slavery -- Illinois'
+- !lcsh 'Lemen, James, 1760-1823'
+title: "The Jefferson-Lemen Compact\r\nThe Relations of Thomas Jefferson and James\
+  \ Lemen in the Exclusion of Slavery from Illinois and Northern Territory with Related\
+  \ Documents 1781-1818"
+url: http://www.gutenberg.org/ebooks/21251
